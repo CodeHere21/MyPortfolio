@@ -1,17 +1,17 @@
-#Alena Litouka
+# Alena Litouka
 
-##FULL-STACK SOFTWARE ENGINEER
+## FULL-STACK SOFTWARE ENGINEER
 
 A dedicated results-driven Software Developer with B.A. in Computer Science and studies in Radiophysics and Computer Technologies who is passionate about conducting root cause analysis to build cutting-edge business solutions that will improve strategy, process, profitability, and customer satisfaction. Team-oriented and highly versatile, always striving to grow and exceed expectations.
 
-##Skills
+## Skills
 * Java, MySQL, C++
 * Spring Boot, JUnit, React, Angular
 * Agile, Git
 * Bilingual- Russian and English
 
 
-##Technical Projects
+## Technical Projects
 * Hephaestus – Created a web application to write, preview, and publish blogs as part of a four-person team; utilized Heroku for deployment of application online; used Spring Boot, Java, React, MySQL, Figma for
 development. 
 [https://github.com/CodeHere21/hephaestus-backend.git](https://github.com/CodeHere21/hephaestus-backend.git)
@@ -22,8 +22,8 @@ development.
 combine work as a team and pushed to one master copy; personally developed the various customer
 accounts; created test-driven development. [https://github.com/CodeHere21/CR-MacroLabs-OOP-ATM.git](https://github.com/CodeHere21/CR-MacroLabs-OOP-ATM.git)
 
-##Contact me
+## Contact me
 * E-mail: alena.litouka@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/alenalitouka](https://www.linkedin.com/in/alenalitouka)
 * Github: [https://github.com/CodeHere21](https://github.com/CodeHere21)
-* Github Portfolio: [https://codehere21.github.io/MyPortfolio](https://codehere21.github.io/MyPortfolio)
+* Github Portfolio: [https://codehere21.github.io/MyPortfolio/](https://codehere21.github.io/MyPortfolio)
