@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+#Alena Litouka
+###FULL-STACK SOFTWARE ENGINEER
 
-You can use the [editor on GitHub](https://github.com/CodeHere21/MyPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A dedicated results-driven Software Developer with B.A. in Computer Science and studies in Radiophysics and Computer Technologies who is passionate about conducting root cause analysis to build cutting-edge business solutions that will improve strategy, process, profitability, and customer satisfaction. Team-oriented and highly versatile, always striving to grow and exceed expectations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Skills
+* Java, MySQL, C++
+* Spring Boot, JUnit, React, Angular
+* Agile, Git
+* Bilingual- Russian and English
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Technical Projects
+* Hephaestus – Created a web application to write, preview, and publish blogs as part of a four-person team; utilized Heroku for deployment of application online; used Spring Boot, Java, React, MySQL, Figma for
+development. 
+[https://github.com/CodeHere21/hephaestus-backend.git](https://github.com/CodeHere21/hephaestus-backend.git)
+[https://github.com/CodeHere21/Haphaestus-frontend.git](https://github.com/CodeHere21/Haphaestus-frontend.git)
+* Casino – Created an Object Oriented Programming Java Project with a team of four to develop a casino simulation. Main program lets user play several games such as Blackjack and Craps, program keeps track of the player’s account balance through the entire game. 
+[https://github.com/CodeHere21/Maven.Casino.git](https://github.com/CodeHere21/Maven.Casino.git)
+* ATM – Collaborated with a group of four developers to create a simulation of an ATM; utilized Github to
+combine work as a team and pushed to one master copy; personally developed the various customer
+accounts; created test-driven development. [https://github.com/CodeHere21/CR-MacroLabs-OOP-ATM.git](https://github.com/CodeHere21/CR-MacroLabs-OOP-ATM.git)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeHere21/MyPortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Contact me
+* E-mail: alena.litouka@gmail.com
+* LinkedIn: [https://www.linkedin.com/in/alenalitouka](https://www.linkedin.com/in/alenalitouka)
+* Github: [https://github.com/CodeHere21](https://github.com/CodeHere21)
