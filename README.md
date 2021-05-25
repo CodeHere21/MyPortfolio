@@ -1,5 +1,5 @@
 #Alena Litouka
-###FULL-STACK SOFTWARE ENGINEER
+##FULL-STACK SOFTWARE ENGINEER
 
 A dedicated results-driven Software Developer with B.A. in Computer Science and studies in Radiophysics and Computer Technologies who is passionate about conducting root cause analysis to build cutting-edge business solutions that will improve strategy, process, profitability, and customer satisfaction. Team-oriented and highly versatile, always striving to grow and exceed expectations.
 
