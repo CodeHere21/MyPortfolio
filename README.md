@@ -6,6 +6,7 @@
 * LinkedIn: [https://www.linkedin.com/in/alenalitouka](https://www.linkedin.com/in/alenalitouka)
 * Github: [https://github.com/CodeHere21](https://github.com/CodeHere21)
 * Github Portfolio: [https://codehere21.github.io/MyPortfolio/](https://codehere21.github.io/MyPortfolio)
+* Resume: [https://github.com/CodeHere21/MyPortfolio/blob/main/Alena%20Litouka.pdf](https://github.com/CodeHere21/MyPortfolio/blob/main/Alena%20Litouka.pdf)
 
 ## Education
 * Thomas Edison State University (February 2016 - September 2018)
