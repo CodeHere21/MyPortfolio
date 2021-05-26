@@ -26,4 +26,4 @@ accounts; created test-driven development. [https://github.com/CodeHere21/CR-Mac
 * E-mail: alena.litouka@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/alenalitouka](https://www.linkedin.com/in/alenalitouka)
 * Github: [https://github.com/CodeHere21](https://github.com/CodeHere21)
-* Github Portfolio: [https://codehere21.github.io/MyPortfolio/](https://codehere21.github.io/MyPortfolio)
+* Github Portfolio: [https://codehere21.github.io/MyPortfolio/](https://codehere21.github.io/MyPortfolio/)
